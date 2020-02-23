@@ -27,9 +27,7 @@ def print_first_directors_movie_titles
     row += 1
   end
       
-  dr[:movies]
   
-  dr[:movies][:title]
   
 end
 
