@@ -15,7 +15,7 @@ end
 
 def print_first_directors_movie_titles
   
-  
+  dr[:movies][0][:title]
   
 end
 
