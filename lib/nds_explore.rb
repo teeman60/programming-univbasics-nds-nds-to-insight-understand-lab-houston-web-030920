@@ -21,6 +21,11 @@ def print_first_directors_movie_titles
   while row < dr[:movies].length do
     column = 0
     while column < dr[:movies][column].length do
+      puts dr[:movies][column][:title]
+      column += 1
+    end
+    row += 1
+  end
       
   dr[:movies]
   
